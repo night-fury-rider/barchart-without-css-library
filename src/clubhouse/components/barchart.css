@@ -1,0 +1,13 @@
+.barchart-container {
+  display: flex;
+  flex-direction: row;
+  column-gap: 50px;
+  background-color: aqua;
+  align-items: end;
+  border: 1px;
+}
+
+.bar_candle {
+  min-width: 2rem;
+  cursor: pointer;
+}
